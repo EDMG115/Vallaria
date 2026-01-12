@@ -1,0 +1,64 @@
+{
+  "lesson_id": 1,
+  "solutions": [
+    {
+      "ejercicio_uid": "ex_1",
+      "solution": "2",
+      "steps": [
+        "$2x + 3 = 7$",
+        "$2x = 7 - 3$",
+        "$2x = 4$",
+        "$x = \\frac{4}{2}$",
+        "$x = 2$"
+      ],
+      "verification": "$2(2) + 3 = 4 + 3 = 7$ ✓"
+    },
+    {
+      "ejercicio_uid": "ex_2",
+      "solution": "5",
+      "steps": [
+        "$3x - 5 = 10$",
+        "$3x = 10 + 5$",
+        "$3x = 15$",
+        "$x = \\frac{15}{3}$",
+        "$x = 5$"
+      ],
+      "verification": "$3(5) - 5 = 15 - 5 = 10$ ✓"
+    },
+    {
+      "ejercicio_uid": "ex_3",
+      "solution": "8",
+      "steps": [
+        "$x + 7 = 15$",
+        "$x = 15 - 7$",
+        "$x = 8$"
+      ],
+      "verification": "$8 + 7 = 15$ ✓"
+    },
+    {
+      "ejercicio_uid": "ex_4",
+      "solution": "4",
+      "steps": [
+        "$5x - 3 = 2x + 9$",
+        "$5x - 2x = 9 + 3$",
+        "$3x = 12$",
+        "$x = \\frac{12}{3}$",
+        "$x = 4$"
+      ],
+      "verification": "$5(4) - 3 = 20 - 3 = 17$ y $2(4) + 9 = 8 + 9 = 17$ ✓"
+    },
+    {
+      "ejercicio_uid": "ex_5",
+      "solution": "8",
+      "steps": [
+        "$\\frac{x}{2} + 4 = 8$",
+        "$\\frac{x}{2} = 8 - 4$",
+        "$\\frac{x}{2} = 4$",
+        "$x = 4 \\times 2$",
+        "$x = 8$"
+      ],
+      "verification": "$\\frac{8}{2} + 4 = 4 + 4 = 8$ ✓"
+    }
+  ]
+}
+

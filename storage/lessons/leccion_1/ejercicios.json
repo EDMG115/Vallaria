@@ -1,0 +1,58 @@
+{
+  "lesson_id": 1,
+  "type": "algebra",
+  "subject": "matematicas",
+  "exercises": [
+    {
+      "ejercicio_uid": "ex_1",
+      "kind": "multiple_choice",
+      "question": "¿Cuál es la solución de la ecuación $2x + 3 = 7$?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2",
+      "difficulty": 1,
+      "xp": 10,
+      "explanation": "Restamos 3 en ambos lados: $2x = 4$, luego dividimos entre 2: $x = 2$"
+    },
+    {
+      "ejercicio_uid": "ex_2",
+      "kind": "multiple_choice",
+      "question": "Resuelve: $3x - 5 = 10$",
+      "options": ["3", "4", "5", "6"],
+      "answer": "5",
+      "difficulty": 1,
+      "xp": 10,
+      "explanation": "Sumamos 5 en ambos lados: $3x = 15$, luego dividimos entre 3: $x = 5$"
+    },
+    {
+      "ejercicio_uid": "ex_3",
+      "kind": "multiple_choice",
+      "question": "¿Qué valor de $x$ satisface la ecuación $x + 7 = 15$?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "difficulty": 1,
+      "xp": 10,
+      "explanation": "Restamos 7 en ambos lados: $x = 15 - 7 = 8$"
+    },
+    {
+      "ejercicio_uid": "ex_4",
+      "kind": "multiple_choice",
+      "question": "Resuelve: $5x - 3 = 2x + 9$",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4",
+      "difficulty": 2,
+      "xp": 15,
+      "explanation": "Agrupamos términos: $5x - 2x = 9 + 3$, entonces $3x = 12$, por lo tanto $x = 4$"
+    },
+    {
+      "ejercicio_uid": "ex_5",
+      "kind": "multiple_choice",
+      "question": "Encuentra el valor de $x$ en: $\\frac{x}{2} + 4 = 8$",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8",
+      "difficulty": 2,
+      "xp": 15,
+      "explanation": "Restamos 4: $\\frac{x}{2} = 4$, multiplicamos por 2: $x = 8$"
+    }
+  ]
+}
+
