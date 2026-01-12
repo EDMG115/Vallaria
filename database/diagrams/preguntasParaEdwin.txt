@@ -1,0 +1,7 @@
+1- ¿Que es el campo rol en los usuarios?
+2- Hay que cambiar a que puedas poner en lugar de "nombre" que se llama "username"
+3- ¿Que es modulos? y que es el campo "orden", tanto en modulos como en lecciones.
+4- ¿La tabla cursos es entones el nivel? Por ejemplo, en Matematicas seria el nivel facil, medio, avanzado... ?? o que viene siendo?
+5- ¿En la tabla inscripciones, el campo "estado" por que es un ENUM o que significa, y que es ese estado?
+6- ¿En esa misma tabla, progreso general es un porcentaje?
+7- la relacion de usuarios-lecciones se me hace rara, tipo por leccion solo podriamos tener una respuesta correcta, pero pues puede que metamos varios ejercicios en una misma leccion. ademas para eso de donde vamos a verificar que sea una respuesta correcta?, tipo no se si se pueda hacer directamente agarrando un archivo con las respuestas, por qu esi no creo que seria hacer otra tabla enmedio tanto para poder tener mas respuestas entre el usuario y la lecciones, asi como una tabla con las respuestas de las lecciones y la tabla adicional (m-n) que las relacione la leccion con su respuesta, eso si suponemos que cada leccion tiene varias respuestas, si no, incluso en la misma tabla de lecciones podriamos meter la respuesta a la leccion o el path a dicho archivo con la respuesta.
